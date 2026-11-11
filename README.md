@@ -79,6 +79,7 @@ Names follow the OpenFGA DSL rather than the JSON/API wire format. Where they di
 - .NET 8
 - .NET 9
 - .NET 10
+- .NET 11
 
 ## Installation
 
